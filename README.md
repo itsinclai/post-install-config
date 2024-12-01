@@ -32,6 +32,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
+
+![image](https://github.com/user-attachments/assets/12781801-8880-412b-ba61-6c03552d6d4a)
+
 <br />
 
 <p>
