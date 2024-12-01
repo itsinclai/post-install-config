@@ -39,21 +39,44 @@ Contrast that with the expanded access role.
 
 ![image](https://github.com/user-attachments/assets/bc079eb2-aec5-4274-b7c1-33b55276d63a)
 
+![image](https://github.com/user-attachments/assets/2f9265f3-c2f9-4080-8a67-7f798f87a0d5)
+
+Supreme admin role created. Proceed to tasks and let them do every single possible thing.
+
+
 
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![image](https://github.com/user-attachments/assets/025b80ba-e6c4-439e-a870-6c3ddc65624a)
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
+
+![image](https://github.com/user-attachments/assets/677c2a4a-72dc-45ac-bb02-54d4794512cf)
+
+<br />
+
+![image](https://github.com/user-attachments/assets/f83f0661-640b-4c20-8c77-4bee30d414a7)
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
+
+![image](https://github.com/user-attachments/assets/3f93a857-6d1d-49c6-9ee9-e61b348a6d84)
+
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+
+![image](https://github.com/user-attachments/assets/71cb9b15-c584-434d-918b-0d0613f85662)
+
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+
+![image](https://github.com/user-attachments/assets/bf8e2d76-be97-4896-85eb-cb820279aa42)
+
+
+
 <br />
