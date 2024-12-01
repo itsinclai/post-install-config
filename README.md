@@ -35,6 +35,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ![image](https://github.com/user-attachments/assets/12781801-8880-412b-ba61-6c03552d6d4a)
 
+Contrast that with the expanded access role. 
+
+![image](https://github.com/user-attachments/assets/bc079eb2-aec5-4274-b7c1-33b55276d63a)
+
+
 <br />
 
 <p>
