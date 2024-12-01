@@ -3,10 +3,9 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.
+<p>This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.</p>
 
-After successfully installing osTicket, the next step is to configure the system to suit your organization's needs. These steps outline how to set up roles, departments, teams, and other critical settings to ensure a smooth ticketing process.
-<br />
+<p>After successfully installing osTicket, the next step is to configure the system to suit your organization's needs. These steps outline how to set up roles, departments, teams, and other critical settings to ensure a smooth ticketing process.</p>
 
 
 <h2>Environments and Technologies Used</h2>
@@ -69,43 +68,68 @@ Teams allow you to group agents from different departments to collaborate on spe
 - Click Add New Team.
 - Name the team (e.g., Online Banking) and assign members from various departments.
 
+<b>Step 4: Allow Anyone to Create Tickets</b>
+
+This setting determines how users interact with your ticketing system. By allowing unregistered users to create tickets, you lower the barrier to entry for getting help. Conversely, requiring registration ensures more control and accountability over user submissions.
+
 ![image](https://github.com/user-attachments/assets/3f93a857-6d1d-49c6-9ee9-e61b348a6d84)
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+- Navigate to Admin Panel > Settings > User Settings.
+- UNCHECK the box for Registration Required to allow anyone to create tickets.
+
+<b>Step 5: Configure Agents (Workers)</b>
+
+
+Agents are the individuals responsible for managing tickets. Each agent must have an account with assigned roles, departments, and teams to ensure they can perform their tasks effectively.
+
+- Navigate to Admin Panel > Agents > Add New.
+- Create accounts for your agents:
+- Jane (Dept: SysAdmins, Role: Supreme Admin, Team: Online Banking)
+- John (Dept: Support, Role: Expanded Access)
 
 ![image](https://github.com/user-attachments/assets/71cb9b15-c584-434d-918b-0d0613f85662)
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+<b>Step 6: Configure Users (Customers)</b>
+
+Users are your customers or end-users who will be submitting tickets. Setting up user accounts helps you track interactions and manage tickets more effectively.
+
+- Navigate to Agent Panel > Users > Add New.
+- Add user profiles for your customers:
+- Karen
+- Ken
 
 ![image](https://github.com/user-attachments/assets/bf8e2d76-be97-4896-85eb-cb820279aa42)
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Next we will assign Jane access and give her the role of Supreme Admin that we created earlier. We will place Jane in the SysAdmins department and assign her to the online banking team as well.
+
+<b>Step 7: Configure SLAs (Service Level Agreements)</b>
+
+SLAs define the timeframes within which tickets must be resolved based on their priority. For example, a critical system outage might require resolution within an hour, while a password reset might allow for an 8-hour response time.
 
 ![image](https://github.com/user-attachments/assets/5c4edf58-b035-49da-ae5a-e290afc5fb34)
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+- Navigate to Admin Panel > Manage > SLA.
+- Set up SLAs based on urgency:
+- Sev-A: Grace Period: 1 hour, Schedule: 24/7
+- Sev-B: Grace Period: 4 hours, Schedule: 24/7
+- Sev-C: Grace Period: 8 hours, Schedule: Business Hours
 
 ![image](https://github.com/user-attachments/assets/9a29e99b-8365-4bf1-a166-0f732ed19987)
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+<b>Step 8: Configure Help Topics</b>
+
+Help Topics categorize tickets when they are created, making it easier for users to specify their issue and for agents to prioritize and route tickets.
 
 ![image](https://github.com/user-attachments/assets/9e8bf8fd-2212-4ffa-9c75-61fd4e337599)
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+- Navigate to Admin Panel > Manage > Help Topics.
+- Add help topics to cover common issues:
+- Business Critical Outage
+- Personal Computer Issues
+- Equipment Request
+- Password Reset
+- Other
 
 ![image](https://github.com/user-attachments/assets/5de6620f-801a-4d3d-8629-63b152212a53)
 
 
-<br />
